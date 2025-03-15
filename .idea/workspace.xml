@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8a48ea4-0bb9-49a6-b94a-fb56e5d87855" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gabriele/lista/ListaEncadeada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gabriele/lista/ListaEncadeada.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/gabriele/lista/teste/ListaEncadeadaTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gabriele/lista/teste/ListaEncadeadaTeste.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +38,7 @@
     "Application.ListaEncadeadaTeste.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
@@ -79,5 +82,16 @@
       <updated>1742058969857</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
