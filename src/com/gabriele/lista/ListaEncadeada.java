@@ -1,2 +1,4 @@
-package com.gabriele.lista;public class ListaEncadeada {
+package com.gabriele.lista;
+
+public class ListaEncadeada {
 }
