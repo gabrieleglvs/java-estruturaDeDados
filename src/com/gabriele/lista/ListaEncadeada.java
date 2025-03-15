@@ -16,8 +16,8 @@ public class ListaEncadeada<T> {
 
     @Override
     public String toString() {
-        return "ListaEncadeada{" +
-                "inicio=" + inicio +
+        return "ListaEncadeada {" +
+                "inicio = " + inicio +
                 '}';
     }
 }
